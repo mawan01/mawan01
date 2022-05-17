@@ -58,6 +58,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawan01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :writing_hand: Blog Posts :
-                                                                                                                                               
-                                                                                                                                               
+### :writing_hand: Blog Posts :                                                                                                                                               
+visit my website : <a href="https://dibz.my.id">DIBZ.io</a>                                                                                                                   
